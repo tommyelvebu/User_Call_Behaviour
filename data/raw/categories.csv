@@ -1,0 +1,6 @@
+category,description,example_contacts
+Unknown,"Mixed, uncategorised or infrequent contacts. May include clients, prospective buyers, acquaintances, infrequent suppliers, service providers and other undefined contacts. High variability in both call frequency and call duration.","One-off callers, rare repeat numbers, mixed behaviour"
+Family,"Relatives and close family members. Typically long and frequent personal calls, including off-peak, evening and weekend activity.","Daughter, son, spouse, sibling, parent"
+Supplier,"Business suppliers and vendors. Mostly short, task-focused calls during business hours related to stock, logistics, or operations.","Stationery supplier, IT parts vendor, printing shop"
+Important Contacts,"Key practical and operational contacts who are important to day-to-day functioning but are not institutions. Often involved in coordination, logistics or property-related issues.","Driver, tenant, caretaker, accountant, key helper"
+Service Provider,Formal institutions and service organisations providing services to the business or individual.,"Bank, insurance company, SARS, Department of Labour, ambulance, towing company"
